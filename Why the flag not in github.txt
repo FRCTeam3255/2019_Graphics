@@ -1,3 +1,0 @@
-the flag is too thicc
-
-(or rather, the file size exceeds the maximum single file size for github)
